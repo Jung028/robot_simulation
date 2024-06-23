@@ -1,0 +1,11 @@
+Robot Dog 
+
+1. Build the robot dog 
+
+
+
+
+Code 
+1. Code and list down the matrix calculation for the jacobian matrix for the robot dog. 
+2. Code a simple python for the running of the servo motors all 12. 
+3. Code a simple calibration file. 
