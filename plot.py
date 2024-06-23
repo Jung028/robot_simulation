@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib.patches import Arrow
+import numpy as np
 
 # draw the robot 
 def plot_robot(robot, ax):
