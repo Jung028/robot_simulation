@@ -1,5 +1,6 @@
 # Documentation 
 
+## Steps for installing ubuntu 20.04 on Mac
 Installed ubuntu 20.04 server. Which is arm architecture, as UTM, a virtual machine for mac, supports arm architecture. There is no arm for desktop, therefore I installed server, and sudo apt install ubuntu-desktop. 
 
 The process is quite tricky. When installing the server, make sure you remember your username and password. Or have to restart the installation. So once its installed, eject the iso from the top right, and restart. Then it will display the terminal for the server. Install the ubuntu-desktop and you are set. 
