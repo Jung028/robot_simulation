@@ -43,5 +43,13 @@ python3 simulate.py
 ```gedit name.py```
 
 
-##To add source : 
+## To add source : 
 ```gedit ~/.bashrc```
+
+
+
+
+
+
+
+
